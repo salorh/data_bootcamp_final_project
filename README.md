@@ -18,3 +18,5 @@ Insert one paragraph description of your project
 Some notes on our files: 
 * Our data comes from [Pablo Freitas on Kaggle](https://www.kaggle.com/pablohfreitas/all-premier-league-matches-20102021)
 * The file "data_dictionary.txt", which explains the column descriptions in the .csv file, also comes from this source
+
+Thank you to Ben Zweig and Praxal Patel for instructing our section of ECON-UB.0232.

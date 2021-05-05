@@ -1,6 +1,6 @@
 # Data Bootcamp Final Project
 
-This project was completed by Deven Patnaik, Catherine Sang, and Salomon Ruiz in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2021. I certify that the NYU Stern Honor Code applies to this project.
+This project was completed by Deven Patnaik in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2021. I certify that the NYU Stern Honor Code applies to this project.
 
 In particular, I have:
 
@@ -19,4 +19,4 @@ Some notes on our files:
 * Our data comes from [Pablo Freitas on Kaggle](https://www.kaggle.com/pablohfreitas/all-premier-league-matches-20102021)
 * The file "data_dictionary.txt", which explains the column descriptions in the .csv file, also comes from this source
 
-Thank you to Ben Zweig and Praxal Patel for instructing our section of ECON-UB.0232.
+Thank you to Ben Zweig and Praxal Patel for instructing my section of ECON-UB.0232.

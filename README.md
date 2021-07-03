@@ -1,6 +1,6 @@
 # Data Bootcamp Final Project
 
-This project was completed by Deven Patnaik in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2021. I certify that the NYU Stern Honor Code applies to this project.
+This project was completed by Salomon Ruiz in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2021. I certify that the NYU Stern Honor Code applies to this project.
 
 In particular, I have:
 
